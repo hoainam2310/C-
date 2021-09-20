@@ -55,30 +55,7 @@ namespace datphong
 
         private void btn_themphong_Click(object sender, EventArgs e)
         {
- 
-            string IDRoom = "";
-            string TypeRoom = cbox_loaiphong.Text;
-            if (TypeRoom == "A")
-            {
-                int A = 0;
-                A++;
-                IDRoom ="A"+A.ToString();
-            }
-            if (TypeRoom == "B")
-            {
-                int B = 0;
-                B++;
-                IDRoom = "B" + B.ToString();
-            }
-            if (TypeRoom == "A")
-            {
-                int C = 0;
-                C++;
-                IDRoom = "C" + C.ToString();
-            }
-            listView1.Items.Add(IDRoom, 2);
-            listView1.LargeImageList = imageList1;
-            listView1.View = View.LargeIcon;
+
         }
     }
 }
