@@ -1,0 +1,20 @@
+C:\Users\ADMIN\Desktop\datphong\bin\Debug\datphong.exe.config
+C:\Users\ADMIN\Desktop\datphong\bin\Debug\datphong.exe
+C:\Users\ADMIN\Desktop\datphong\bin\Debug\datphong.pdb
+C:\Users\ADMIN\Desktop\datphong\obj\Debug\datphong.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Desktop\datphong\obj\Debug\datphong.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\datphong\obj\Debug\datphong.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\datphong\obj\Debug\datphong.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\datphong\obj\Debug\datphong.exe
+C:\Users\ADMIN\Desktop\datphong\obj\Debug\datphong.pdb
+C:\Users\ADMIN\Desktop\datphong\obj\Debug\datphong.Hotel.resources
+D:\Tài liệu môn học\C#\Buổi 3 20.09.2021\datphong\bin\Debug\datphong.exe.config
+D:\Tài liệu môn học\C#\Buổi 3 20.09.2021\datphong\bin\Debug\datphong.exe
+D:\Tài liệu môn học\C#\Buổi 3 20.09.2021\datphong\bin\Debug\datphong.pdb
+D:\Tài liệu môn học\C#\Buổi 3 20.09.2021\datphong\obj\Debug\datphong.csproj.AssemblyReference.cache
+D:\Tài liệu môn học\C#\Buổi 3 20.09.2021\datphong\obj\Debug\datphong.Hotel.resources
+D:\Tài liệu môn học\C#\Buổi 3 20.09.2021\datphong\obj\Debug\datphong.Properties.Resources.resources
+D:\Tài liệu môn học\C#\Buổi 3 20.09.2021\datphong\obj\Debug\datphong.csproj.GenerateResource.cache
+D:\Tài liệu môn học\C#\Buổi 3 20.09.2021\datphong\obj\Debug\datphong.csproj.CoreCompileInputs.cache
+D:\Tài liệu môn học\C#\Buổi 3 20.09.2021\datphong\obj\Debug\datphong.exe
+D:\Tài liệu môn học\C#\Buổi 3 20.09.2021\datphong\obj\Debug\datphong.pdb
