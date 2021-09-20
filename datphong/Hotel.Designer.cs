@@ -87,7 +87,6 @@ namespace datphong
             this.groupBox1.TabIndex = 0;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Thông tin phòng";
-            this.groupBox1.Enter += new System.EventHandler(this.groupBox1_Enter);
             // 
             // nud_songayo
             // 
@@ -121,7 +120,7 @@ namespace datphong
             // 
             // cbox_loaiphong
             // 
-            this.cbox_loaiphong.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.cbox_loaiphong.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbox_loaiphong.FormattingEnabled = true;
             this.cbox_loaiphong.Items.AddRange(new object[] {
             "A",
@@ -129,13 +128,14 @@ namespace datphong
             "C"});
             this.cbox_loaiphong.Location = new System.Drawing.Point(252, 70);
             this.cbox_loaiphong.Name = "cbox_loaiphong";
-            this.cbox_loaiphong.Size = new System.Drawing.Size(125, 30);
+            this.cbox_loaiphong.Size = new System.Drawing.Size(125, 31);
             this.cbox_loaiphong.TabIndex = 7;
             this.cbox_loaiphong.Text = "A";
             // 
             // txt_giaphong
             // 
-            this.txt_giaphong.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt_giaphong.BackColor = System.Drawing.Color.White;
+            this.txt_giaphong.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_giaphong.Location = new System.Drawing.Point(252, 113);
             this.txt_giaphong.Name = "txt_giaphong";
             this.txt_giaphong.ReadOnly = true;
@@ -145,14 +145,13 @@ namespace datphong
             // 
             // txt_maphong
             // 
-            this.txt_maphong.Font = new System.Drawing.Font("Courier New", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txt_maphong.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_maphong.Location = new System.Drawing.Point(252, 32);
             this.txt_maphong.Name = "txt_maphong";
             this.txt_maphong.ReadOnly = true;
             this.txt_maphong.Size = new System.Drawing.Size(125, 30);
             this.txt_maphong.TabIndex = 5;
             this.txt_maphong.Text = "A1";
-            this.txt_maphong.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             // 
             // label5
             // 
@@ -163,7 +162,6 @@ namespace datphong
             this.label5.Size = new System.Drawing.Size(142, 23);
             this.label5.TabIndex = 4;
             this.label5.Text = "Số ngày ở :";
-            this.label5.Click += new System.EventHandler(this.label5_Click);
             // 
             // label4
             // 
@@ -174,7 +172,6 @@ namespace datphong
             this.label4.Size = new System.Drawing.Size(154, 23);
             this.label4.TabIndex = 3;
             this.label4.Text = "Loại phòng :";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // label3
             // 
@@ -185,7 +182,6 @@ namespace datphong
             this.label3.Size = new System.Drawing.Size(142, 23);
             this.label3.TabIndex = 2;
             this.label3.Text = "Giá phòng :";
-            this.label3.Click += new System.EventHandler(this.label3_Click);
             // 
             // label2
             // 
@@ -196,7 +192,6 @@ namespace datphong
             this.label2.Size = new System.Drawing.Size(226, 23);
             this.label2.TabIndex = 1;
             this.label2.Text = "Tình trạng phòng :";
-            this.label2.Click += new System.EventHandler(this.label2_Click);
             // 
             // label1
             // 
@@ -207,7 +202,6 @@ namespace datphong
             this.label1.Size = new System.Drawing.Size(130, 23);
             this.label1.TabIndex = 0;
             this.label1.Text = "Mã phòng :";
-            this.label1.Click += new System.EventHandler(this.label1_Click);
             // 
             // groupBox2
             // 
@@ -307,6 +301,7 @@ namespace datphong
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "Hotel";
             this.Text = "Hotel";
+            this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nud_songayo)).EndInit();
