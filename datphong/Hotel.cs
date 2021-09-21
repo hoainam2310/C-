@@ -39,10 +39,10 @@ namespace datphong
                         dt.Rows[i]["Ngay"] = nud_songayo.Value;
                         dt.Rows[i]["TT"] = "Đầy";
                         rb_day.Checked = true;
-                        MessageBox.Show("Bạn đã đặt phòng thành công!");
+                        MessageBox.Show("Bạn đã đặt phòng thành công!", "THÔNG BÁO!");
                     }
                     else
-                        MessageBox.Show("Bạn chưa nhập số ngày ở!");
+                        MessageBox.Show("Bạn chưa nhập số ngày ở!", "THÔNG BÁO!");
                         
                 }
         }
