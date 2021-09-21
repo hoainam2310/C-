@@ -120,6 +120,10 @@ namespace datphong
             // 
             // cbox_loaiphong
             // 
+            this.cbox_loaiphong.AutoCompleteCustomSource.AddRange(new string[] {
+            "A",
+            "B",
+            "C"});
             this.cbox_loaiphong.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.cbox_loaiphong.FormattingEnabled = true;
             this.cbox_loaiphong.Items.AddRange(new object[] {
@@ -138,7 +142,6 @@ namespace datphong
             this.txt_giaphong.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txt_giaphong.Location = new System.Drawing.Point(252, 113);
             this.txt_giaphong.Name = "txt_giaphong";
-            this.txt_giaphong.ReadOnly = true;
             this.txt_giaphong.Size = new System.Drawing.Size(125, 30);
             this.txt_giaphong.TabIndex = 6;
             this.txt_giaphong.Text = "150000";
@@ -252,6 +255,7 @@ namespace datphong
             this.btn_datphong.TabIndex = 12;
             this.btn_datphong.Text = "Đặt phòng";
             this.btn_datphong.UseVisualStyleBackColor = false;
+            this.btn_datphong.Click += new System.EventHandler(this.btn_datphong_Click);
             // 
             // btn_themphong
             // 
@@ -286,6 +290,7 @@ namespace datphong
             this.listView1.Size = new System.Drawing.Size(752, 503);
             this.listView1.TabIndex = 2;
             this.listView1.UseCompatibleStateImageBehavior = false;
+            this.listView1.ItemSelectionChanged += new System.Windows.Forms.ListViewItemSelectionChangedEventHandler(this.listView1_ItemSelectionChanged);
             // 
             // Hotel
             // 
