@@ -233,6 +233,7 @@ namespace datphong
             this.btn_thanhtoan.TabIndex = 14;
             this.btn_thanhtoan.Text = "Thanh toán";
             this.btn_thanhtoan.UseVisualStyleBackColor = false;
+            this.btn_thanhtoan.Click += new System.EventHandler(this.btn_thanhtoan_Click);
             // 
             // btn_huyphong
             // 
@@ -244,6 +245,7 @@ namespace datphong
             this.btn_huyphong.TabIndex = 13;
             this.btn_huyphong.Text = "Hủy phòng";
             this.btn_huyphong.UseVisualStyleBackColor = false;
+            this.btn_huyphong.Click += new System.EventHandler(this.btn_huyphong_Click);
             // 
             // btn_datphong
             // 

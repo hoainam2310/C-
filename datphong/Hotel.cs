@@ -47,6 +47,41 @@ namespace datphong
                 }
         }
 
+        private void btn_huyphong_Click(object sender, EventArgs e)
+        {
+            string s = "Ma='" + txt_maphong.Text + "'";
+            DataRow[] dr = dr = dt.Select(s);
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                if (dt.Rows[i]["Ma"].ToString() == txt_maphong.Text)
+                {
+                    dt.Rows[i]["Ngay"] = 0;
+                    dt.Rows[i]["TT"] = "Trống";
+                }
+            }
+            nud_songayo.Value = 0;
+            rb_trong.Checked = true;
+            MessageBox.Show("Hủy phòng thành công !");
+        }
+
+        private void btn_thanhtoan_Click(object sender, EventArgs e)
+        {
+            string tienthanhtoan = "Vui lòng thanh toán : " + Convert.ToInt32(txt_giaphong.Text) * nud_songayo.Value + " VNĐ"; 
+            MessageBox.Show(tienthanhtoan);
+            string s = "Ma='" + txt_maphong.Text + "'";
+            DataRow[] dr = dr = dt.Select(s);
+            for (int i = 0; i < dt.Rows.Count; i++)
+            {
+                if (dt.Rows[i]["Ma"].ToString() == txt_maphong.Text)
+                {
+                    dt.Rows[i]["Ngay"] = 0;
+                    dt.Rows[i]["TT"] = "Trống";
+                }
+            }
+            nud_songayo.Value = 0;
+            rb_trong.Checked = true;
+        }
+
         private void listView1_ItemSelectionChanged(object sender, ListViewItemSelectionChangedEventArgs e)
         {
             //Lấy 1 dòng data trong datatable
@@ -70,16 +105,18 @@ namespace datphong
 
             if(rb_trong.Checked == true)
             {
-                //Nếu phòng đang trốn thì button hủy phòng và thanh toán không hoạt động
+                //Nếu phòng đang trống thì button hủy phòng và thanh toán không hoạt động
                 btn_datphong.Enabled = true;
                 btn_huyphong.Enabled = false;
                 btn_thanhtoan.Enabled = false;
+                listView1.Items[e.ItemIndex].BackColor = Color.White;
             }    
             else
             {
                 btn_datphong.Enabled = false;
                 btn_huyphong.Enabled = true;
                 btn_thanhtoan.Enabled = true;
+                listView1.Items[e.ItemIndex].BackColor = Color.Red;
             }    
    
         }
@@ -91,32 +128,31 @@ namespace datphong
             {
                 A++;
                 txt_maphong.Text = 'A' + A.ToString();
+                string tienphong = "150000";
+                txt_giaphong.Text = tienphong;
                 dt.Rows.Add(txt_maphong.Text, cbox_loaiphong.Text, Convert.ToDouble(txt_giaphong.Text), rb_day.Checked == true ? "Đầy" : "Trống", Convert.ToInt32(nud_songayo.Value));
             }
             if (string.Equals(cbox_loaiphong.Text, "B"))
             {
                 B++;
                 txt_maphong.Text = 'B' + B.ToString();
+                string tienphong = "250000";
+                txt_giaphong.Text = tienphong;
                 dt.Rows.Add(txt_maphong.Text, cbox_loaiphong.Text, Convert.ToDouble(txt_giaphong.Text), rb_day.Checked == true ? "Đầy" : "Trống", Convert.ToInt32(nud_songayo.Value));
             }
             if (string.Equals(cbox_loaiphong.Text, "C"))
             {
                 C++;
                 txt_maphong.Text = 'C' + C.ToString();
+                string tienphong = "350000";
+                txt_giaphong.Text = tienphong;
                 dt.Rows.Add(txt_maphong.Text, cbox_loaiphong.Text, Convert.ToDouble(txt_giaphong.Text), rb_day.Checked == true ? "Đầy" : "Trống", Convert.ToInt32(nud_songayo.Value));
             }
 
             listView1.Items.Add(txt_maphong.Text, 2);
             listView1.LargeImageList = imageList1;
             listView1.View = View.LargeIcon;
-
         }
-        //string AutoIDRoom(string TypeRoom)
-        //{
-        //    string IDRoom = TypeRoom;
-        //    if(TypeRoom == "A")
-        //        A
-        //    return IDRoom;
-        //}
+        
     }
 }
