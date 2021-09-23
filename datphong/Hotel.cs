@@ -61,13 +61,13 @@ namespace datphong
             }
             nud_songayo.Value = 0;
             rb_trong.Checked = true;
-            MessageBox.Show("Hủy phòng thành công !");
+            MessageBox.Show("Hủy phòng thành công!", "THÔNG BÁO!");
         }
 
         private void btn_thanhtoan_Click(object sender, EventArgs e)
         {
             string tienthanhtoan = "Vui lòng thanh toán : " + Convert.ToInt32(txt_giaphong.Text) * nud_songayo.Value + " VNĐ"; 
-            MessageBox.Show(tienthanhtoan);
+            MessageBox.Show(tienthanhtoan, "THÔNG BÁO!");
             string s = "Ma='" + txt_maphong.Text + "'";
             DataRow[] dr = dr = dt.Select(s);
             for (int i = 0; i < dt.Rows.Count; i++)
