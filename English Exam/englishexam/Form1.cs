@@ -36,16 +36,7 @@ namespace englishexam
         private void p_import_Click(object sender, EventArgs e)
         {
             panel_import.Visible = true;
-        }
-
-        private void picb_import_Click(object sender, EventArgs e)
-        {
-            panel_import.Visible = true;
-        }
-
-        private void l_import_Click(object sender, EventArgs e)
-        {
-            panel_import.Visible = true;
+            panel_test.Visible = false;
         }
 
         private void picb_question_Click(object sender, EventArgs e)
@@ -78,9 +69,10 @@ namespace englishexam
             rtb_answer.Text = result;
         }
 
-        private void label4_Click(object sender, EventArgs e)
+        private void p_test_Click(object sender, EventArgs e)
         {
-
+            panel_import.Visible = false;
+            panel_test.Visible = true;
         }
     }
 }
