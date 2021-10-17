@@ -8,3 +8,13 @@ C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\English Exam\englishexam\obj\Debug\e
 C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\English Exam\englishexam\obj\Debug\englishexam.csproj.CoreCompileInputs.cache
 C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\English Exam\englishexam\obj\Debug\englishexam.exe
 C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\English Exam\englishexam\obj\Debug\englishexam.pdb
+C:\Users\danie\Documents\GitHub\C-sharp\English Exam\englishexam\bin\Debug\englishexam.exe.config
+C:\Users\danie\Documents\GitHub\C-sharp\English Exam\englishexam\bin\Debug\englishexam.exe
+C:\Users\danie\Documents\GitHub\C-sharp\English Exam\englishexam\bin\Debug\englishexam.pdb
+C:\Users\danie\Documents\GitHub\C-sharp\English Exam\englishexam\obj\Debug\englishexam.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\C-sharp\English Exam\englishexam\obj\Debug\englishexam.Form1.resources
+C:\Users\danie\Documents\GitHub\C-sharp\English Exam\englishexam\obj\Debug\englishexam.Properties.Resources.resources
+C:\Users\danie\Documents\GitHub\C-sharp\English Exam\englishexam\obj\Debug\englishexam.csproj.GenerateResource.cache
+C:\Users\danie\Documents\GitHub\C-sharp\English Exam\englishexam\obj\Debug\englishexam.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\C-sharp\English Exam\englishexam\obj\Debug\englishexam.exe
+C:\Users\danie\Documents\GitHub\C-sharp\English Exam\englishexam\obj\Debug\englishexam.pdb

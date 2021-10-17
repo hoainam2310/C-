@@ -63,5 +63,10 @@ namespace englishexam
             string readfile = File.ReadAllText(answer.FileName);
             rtb_answer.Text = readfile;
         }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
