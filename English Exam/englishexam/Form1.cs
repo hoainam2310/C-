@@ -61,7 +61,21 @@ namespace englishexam
             OpenFileDialog answer = new OpenFileDialog();
             answer.ShowDialog();
             string readfile = File.ReadAllText(answer.FileName);
-            rtb_answer.Text = readfile;
+
+            //string[] words = readfile.Split(' ');
+
+            // Creating array of string length 
+            char[] ch = new char[readfile.Length];
+
+            // Copy character by character into array 
+            for (int i = 1; i <= readfile.Length; i++)
+            {
+                ch[i] = readfile[i];
+            }
+
+            string result = String.Concat(ch);
+
+            rtb_answer.Text = result;
         }
 
         private void label4_Click(object sender, EventArgs e)
