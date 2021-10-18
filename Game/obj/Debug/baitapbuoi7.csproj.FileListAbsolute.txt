@@ -1,0 +1,10 @@
+C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\Game\bin\Debug\baitapbuoi7.exe.config
+C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\Game\bin\Debug\baitapbuoi7.exe
+C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\Game\bin\Debug\baitapbuoi7.pdb
+C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\Game\obj\Debug\baitapbuoi7.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\Game\obj\Debug\baitapbuoi7.Form1.resources
+C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\Game\obj\Debug\baitapbuoi7.Properties.Resources.resources
+C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\Game\obj\Debug\baitapbuoi7.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\Game\obj\Debug\baitapbuoi7.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\Game\obj\Debug\baitapbuoi7.exe
+C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\Game\obj\Debug\baitapbuoi7.pdb
