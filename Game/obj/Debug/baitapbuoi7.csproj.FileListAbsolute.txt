@@ -8,3 +8,13 @@ C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\Game\obj\Debug\baitapbuoi7.csproj.Ge
 C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\Game\obj\Debug\baitapbuoi7.csproj.CoreCompileInputs.cache
 C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\Game\obj\Debug\baitapbuoi7.exe
 C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\Game\obj\Debug\baitapbuoi7.pdb
+C:\Users\danie\Documents\GitHub\C-sharp\Game\bin\Debug\baitapbuoi7.exe.config
+C:\Users\danie\Documents\GitHub\C-sharp\Game\bin\Debug\baitapbuoi7.exe
+C:\Users\danie\Documents\GitHub\C-sharp\Game\bin\Debug\baitapbuoi7.pdb
+C:\Users\danie\Documents\GitHub\C-sharp\Game\obj\Debug\baitapbuoi7.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\C-sharp\Game\obj\Debug\baitapbuoi7.Properties.Resources.resources
+C:\Users\danie\Documents\GitHub\C-sharp\Game\obj\Debug\baitapbuoi7.csproj.GenerateResource.cache
+C:\Users\danie\Documents\GitHub\C-sharp\Game\obj\Debug\baitapbuoi7.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\C-sharp\Game\obj\Debug\baitapbuoi7.exe
+C:\Users\danie\Documents\GitHub\C-sharp\Game\obj\Debug\baitapbuoi7.pdb
+C:\Users\danie\Documents\GitHub\C-sharp\Game\obj\Debug\baitapbuoi7.f_game.resources
