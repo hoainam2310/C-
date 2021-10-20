@@ -156,6 +156,168 @@ namespace baitapbuoi7
             string strstep = istep.ToString();
             lb_step.Text = strstep;
         }
+
+        private void p_start_Click(object sender, EventArgs e)
+        {
+            //hàm random trả về kết quả random trong khoảng (1,10)
+            Random img_example = new Random();
+            int flag = img_example.Next(1, 10);
+
+            btn_1.BackColor = Color.Green;
+            btn_2.BackColor = Color.Blue;
+            btn_3.BackColor = Color.Red;
+            btn_4.BackColor = Color.Blue;
+            btn_5.BackColor = Color.Green;
+            btn_6.BackColor = Color.Blue;
+            btn_7.BackColor = Color.White;
+            btn_8.BackColor = Color.Red;
+            btn_9.BackColor = Color.Green;
+
+
+
+            if (flag == 1)
+            {
+                picb_img_example1.Visible = true;
+                picb_img_example2.Visible = false;
+                picb_img_example3.Visible = false;
+                picb_img_example4.Visible = false;
+                picb_img_example5.Visible = false;
+                picb_img_example6.Visible = false;
+                picb_img_example7.Visible = false;
+                picb_img_example8.Visible = false;
+                picb_img_example9.Visible = false;
+                picb_img_example10.Visible = false;
+            }
+            if (flag == 2)
+            {
+                picb_img_example1.Visible = false;
+                picb_img_example2.Visible = true;
+                picb_img_example3.Visible = false;
+                picb_img_example4.Visible = false;
+                picb_img_example5.Visible = false;
+                picb_img_example6.Visible = false;
+                picb_img_example7.Visible = false;
+                picb_img_example8.Visible = false;
+                picb_img_example9.Visible = false;
+                picb_img_example10.Visible = false;
+            }
+            if (flag == 3)
+            {
+                picb_img_example1.Visible = false;
+                picb_img_example2.Visible = false;
+                picb_img_example3.Visible = true;
+                picb_img_example4.Visible = false;
+                picb_img_example5.Visible = false;
+                picb_img_example6.Visible = false;
+                picb_img_example7.Visible = false;
+                picb_img_example8.Visible = false;
+                picb_img_example9.Visible = false;
+                picb_img_example10.Visible = false;
+            }
+            if (flag == 4)
+            {
+                picb_img_example1.Visible = false;
+                picb_img_example2.Visible = false;
+                picb_img_example3.Visible = false;
+                picb_img_example4.Visible = true;
+                picb_img_example5.Visible = false;
+                picb_img_example6.Visible = false;
+                picb_img_example7.Visible = false;
+                picb_img_example8.Visible = false;
+                picb_img_example9.Visible = false;
+                picb_img_example10.Visible = false;
+            }
+            if (flag == 5)
+            {
+                picb_img_example1.Visible = false;
+                picb_img_example2.Visible = false;
+                picb_img_example3.Visible = false;
+                picb_img_example4.Visible = false;
+                picb_img_example5.Visible = true;
+                picb_img_example6.Visible = false;
+                picb_img_example7.Visible = false;
+                picb_img_example8.Visible = false;
+                picb_img_example9.Visible = false;
+                picb_img_example10.Visible = false;
+            }
+            if (flag == 6)
+            {
+                picb_img_example1.Visible = false;
+                picb_img_example2.Visible = false;
+                picb_img_example3.Visible = false;
+                picb_img_example4.Visible = false;
+                picb_img_example5.Visible = false;
+                picb_img_example6.Visible = true;
+                picb_img_example7.Visible = false;
+                picb_img_example8.Visible = false;
+                picb_img_example9.Visible = false;
+                picb_img_example10.Visible = false;
+            }
+            if (flag == 7)
+            {
+                picb_img_example1.Visible = false;
+                picb_img_example2.Visible = false;
+                picb_img_example3.Visible = false;
+                picb_img_example4.Visible = false;
+                picb_img_example5.Visible = false;
+                picb_img_example6.Visible = false;
+                picb_img_example7.Visible = true;
+                picb_img_example8.Visible = false;
+                picb_img_example9.Visible = false;
+                picb_img_example10.Visible = false;
+            }
+            if (flag == 8)
+            {
+                picb_img_example1.Visible = false;
+                picb_img_example2.Visible = false;
+                picb_img_example3.Visible = false;
+                picb_img_example4.Visible = false;
+                picb_img_example5.Visible = false;
+                picb_img_example6.Visible = false;
+                picb_img_example7.Visible = false;
+                picb_img_example8.Visible = true;
+                picb_img_example9.Visible = false;
+                picb_img_example10.Visible = false;
+            }
+            if (flag == 9)
+            {
+                picb_img_example1.Visible = false;
+                picb_img_example2.Visible = false;
+                picb_img_example3.Visible = false;
+                picb_img_example4.Visible = false;
+                picb_img_example5.Visible = false;
+                picb_img_example6.Visible = false;
+                picb_img_example7.Visible = false;
+                picb_img_example8.Visible = false;
+                picb_img_example9.Visible = true;
+                picb_img_example10.Visible = false;
+            }
+            if (flag == 10)
+            {
+                picb_img_example1.Visible = false;
+                picb_img_example2.Visible = false;
+                picb_img_example3.Visible = false;
+                picb_img_example4.Visible = false;
+                picb_img_example5.Visible = false;
+                picb_img_example6.Visible = false;
+                picb_img_example7.Visible = false;
+                picb_img_example8.Visible = false;
+                picb_img_example9.Visible = false;
+                picb_img_example10.Visible = true;
+            }
+
+
+        }
+
+        private void l_start_Click(object sender, EventArgs e)
+        {
+            p_start_Click(sender, e);
+        }
+
+        private void picb_start_Click(object sender, EventArgs e)
+        {
+            p_start_Click(sender, e);
+        }
     }
     
 }
