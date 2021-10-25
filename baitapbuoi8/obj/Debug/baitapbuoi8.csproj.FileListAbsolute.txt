@@ -1,0 +1,10 @@
+C:\Users\nguye\Downloads\UIT\C# Programming Language\baitapbuoi8\bin\Debug\baitapbuoi8.exe.config
+C:\Users\nguye\Downloads\UIT\C# Programming Language\baitapbuoi8\bin\Debug\baitapbuoi8.exe
+C:\Users\nguye\Downloads\UIT\C# Programming Language\baitapbuoi8\bin\Debug\baitapbuoi8.pdb
+C:\Users\nguye\Downloads\UIT\C# Programming Language\baitapbuoi8\obj\Debug\baitapbuoi8.csproj.AssemblyReference.cache
+C:\Users\nguye\Downloads\UIT\C# Programming Language\baitapbuoi8\obj\Debug\baitapbuoi8.Form1.resources
+C:\Users\nguye\Downloads\UIT\C# Programming Language\baitapbuoi8\obj\Debug\baitapbuoi8.Properties.Resources.resources
+C:\Users\nguye\Downloads\UIT\C# Programming Language\baitapbuoi8\obj\Debug\baitapbuoi8.csproj.GenerateResource.cache
+C:\Users\nguye\Downloads\UIT\C# Programming Language\baitapbuoi8\obj\Debug\baitapbuoi8.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Downloads\UIT\C# Programming Language\baitapbuoi8\obj\Debug\baitapbuoi8.exe
+C:\Users\nguye\Downloads\UIT\C# Programming Language\baitapbuoi8\obj\Debug\baitapbuoi8.pdb
