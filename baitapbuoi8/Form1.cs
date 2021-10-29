@@ -99,13 +99,21 @@ namespace baitapbuoi8
             this.Invalidate();
         }
 
+        private void btn_PenColor_Click(object sender, EventArgs e)
+        {
+            ColorDialog cr = new ColorDialog();
+            if(cr.ShowDialog()==DialogResult.OK)
+            {
+                MauVe = cr.Color;
+            }
+        }
+
         void DrawPaint(Color c)
         {
             if (_Begin != _End)
             {
                 Graphics g = CreateGraphics();
-                Pen x = new Pen(c, Width);
-                SolidBrush y = new SolidBrush(c);
+                Pen x = new Pen(c, Width = Convert.ToInt32(nud_PenWidth.Value));
                 if (rdb_Line.Checked)
                 {
                     g.DrawLine(x, _Begin, _End);
