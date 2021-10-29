@@ -94,6 +94,11 @@ namespace baitapbuoi8
             }
         }
 
+        private void btn_Clean_Click(object sender, EventArgs e)
+        {
+            this.Invalidate();
+        }
+
         void DrawPaint(Color c)
         {
             if (_Begin != _End)
