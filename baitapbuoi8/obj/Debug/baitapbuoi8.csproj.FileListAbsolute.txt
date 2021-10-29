@@ -18,3 +18,13 @@ C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\baitapbuoi8\obj\Debug\baitapbuoi8.cs
 C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\baitapbuoi8\obj\Debug\baitapbuoi8.csproj.CoreCompileInputs.cache
 C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\baitapbuoi8\obj\Debug\baitapbuoi8.exe
 C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\baitapbuoi8\obj\Debug\baitapbuoi8.pdb
+C:\Users\danie\Documents\GitHub\C-sharp\baitapbuoi8\bin\Debug\baitapbuoi8.exe.config
+C:\Users\danie\Documents\GitHub\C-sharp\baitapbuoi8\bin\Debug\baitapbuoi8.exe
+C:\Users\danie\Documents\GitHub\C-sharp\baitapbuoi8\bin\Debug\baitapbuoi8.pdb
+C:\Users\danie\Documents\GitHub\C-sharp\baitapbuoi8\obj\Debug\baitapbuoi8.csproj.AssemblyReference.cache
+C:\Users\danie\Documents\GitHub\C-sharp\baitapbuoi8\obj\Debug\baitapbuoi8.Form1.resources
+C:\Users\danie\Documents\GitHub\C-sharp\baitapbuoi8\obj\Debug\baitapbuoi8.Properties.Resources.resources
+C:\Users\danie\Documents\GitHub\C-sharp\baitapbuoi8\obj\Debug\baitapbuoi8.csproj.GenerateResource.cache
+C:\Users\danie\Documents\GitHub\C-sharp\baitapbuoi8\obj\Debug\baitapbuoi8.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\GitHub\C-sharp\baitapbuoi8\obj\Debug\baitapbuoi8.exe
+C:\Users\danie\Documents\GitHub\C-sharp\baitapbuoi8\obj\Debug\baitapbuoi8.pdb
