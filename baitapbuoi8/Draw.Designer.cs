@@ -1,7 +1,7 @@
 ﻿
 namespace baitapbuoi8
 {
-    partial class Form1
+    partial class Draw
     {
         /// <summary>
         /// Required designer variable.
@@ -29,7 +29,7 @@ namespace baitapbuoi8
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Draw));
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.btn_Clean = new System.Windows.Forms.Button();
             this.gb_Image = new System.Windows.Forms.GroupBox();

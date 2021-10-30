@@ -10,7 +10,7 @@ using System.Windows.Forms;
 
 namespace baitapbuoi8
 {
-    public partial class Form1 : Form
+    public partial class Draw : Form
     {
 
         int Point_X, Point_Y;
@@ -18,7 +18,7 @@ namespace baitapbuoi8
         ImageHandler imgHandler = new ImageHandler();
         double ZoomFactor = 0.5;
 
-        public Form1()
+        public Draw()
         {
             InitializeComponent();
             odlg = new OpenFileDialog();
@@ -212,8 +212,28 @@ namespace baitapbuoi8
                         g.FillRectangle(b, _End.X, _Begin.Y, Math.Abs(width), Math.Abs(height));
                     }
                 }
-
-
+                if (rd_String.Checked)
+                {
+                    SolidBrush b = new SolidBrush(MauVe);
+                    float width = _End.X - _Begin.X;
+                    float height = _End.Y - _Begin.Y;
+                    if (width > 0 && height > 0)
+                    {
+                        g.DrawString("String", rd_String.Font, b, _Begin.X, _Begin.Y);
+                    }
+                    if (width > 0 && height < 0)
+                    {
+                        g.DrawString("String", rd_String.Font, b, _Begin.X, _End.Y);
+                    }
+                    if (width < 0 && height < 0)
+                    {
+                        g.DrawString("String", rd_String.Font, b, _End.X, _End.Y);
+                    }
+                    if (width < 0 && height > 0)
+                    {
+                        g.DrawString("String", rd_String.Font, b, _End.X, _Begin.Y);
+                    }
+                }
             }
         }
     }
