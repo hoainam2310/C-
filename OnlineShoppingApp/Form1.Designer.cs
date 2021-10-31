@@ -30,7 +30,7 @@ namespace OnlineShoppingApp
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges1 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges2 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
             this.panel1 = new System.Windows.Forms.Panel();
             this.bbtn_Laptop = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
@@ -78,11 +78,11 @@ namespace OnlineShoppingApp
             this.bbtn_Laptop.ColorContrastOnClick = 45;
             this.bbtn_Laptop.ColorContrastOnHover = 45;
             this.bbtn_Laptop.Cursor = System.Windows.Forms.Cursors.Default;
-            borderEdges1.BottomLeft = true;
-            borderEdges1.BottomRight = true;
-            borderEdges1.TopLeft = true;
-            borderEdges1.TopRight = true;
-            this.bbtn_Laptop.CustomizableEdges = borderEdges1;
+            borderEdges2.BottomLeft = true;
+            borderEdges2.BottomRight = true;
+            borderEdges2.TopLeft = true;
+            borderEdges2.TopRight = true;
+            this.bbtn_Laptop.CustomizableEdges = borderEdges2;
             this.bbtn_Laptop.DialogResult = System.Windows.Forms.DialogResult.None;
             this.bbtn_Laptop.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.bbtn_Laptop.DisabledFillColor = System.Drawing.Color.Empty;
@@ -220,7 +220,7 @@ namespace OnlineShoppingApp
             // 
             // pictureBox4
             // 
-            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
+            this.pictureBox4.Image = global::OnlineShoppingApp.Properties.Resources._1814095_cart_checkout_commerce_shopping_cart_icon;
             this.pictureBox4.Location = new System.Drawing.Point(924, 42);
             this.pictureBox4.Name = "pictureBox4";
             this.pictureBox4.Size = new System.Drawing.Size(55, 60);

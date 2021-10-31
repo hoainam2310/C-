@@ -63,6 +63,16 @@ namespace OnlineShoppingApp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _1814095_cart_checkout_commerce_shopping_cart_icon {
+            get {
+                object obj = ResourceManager.GetObject("1814095_cart_checkout_commerce_shopping cart_icon", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _314807_search_icon_removebg_preview__1_ {
             get {
                 object obj = ResourceManager.GetObject("314807_search_icon-removebg-preview (1)", resourceCulture);
