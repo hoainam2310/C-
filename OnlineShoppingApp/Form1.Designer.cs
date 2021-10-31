@@ -30,20 +30,22 @@ namespace OnlineShoppingApp
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges6 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
+            Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges borderEdges1 = new Bunifu.UI.WinForms.BunifuButton.BunifuButton.BorderEdges();
             this.panel1 = new System.Windows.Forms.Panel();
+            this.bbtn_Laptop = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.txb_search = new System.Windows.Forms.TextBox();
             this.pictureBox3 = new System.Windows.Forms.PictureBox();
             this.pictureBox2 = new System.Windows.Forms.PictureBox();
             this.picb_close = new System.Windows.Forms.PictureBox();
-            this.bbtn_Laptop = new Bunifu.UI.WinForms.BunifuButton.BunifuButton();
             this.panel2 = new System.Windows.Forms.Panel();
+            this.pictureBox4 = new System.Windows.Forms.PictureBox();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picb_close)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).BeginInit();
             this.SuspendLayout();
             // 
             // panel1
@@ -56,63 +58,6 @@ namespace OnlineShoppingApp
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(302, 846);
             this.panel1.TabIndex = 0;
-            // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Image = global::OnlineShoppingApp.Properties.Resources.Computer__1_;
-            this.pictureBox1.Location = new System.Drawing.Point(0, -6);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(302, 174);
-            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox1.TabIndex = 0;
-            this.pictureBox1.TabStop = false;
-            // 
-            // txb_search
-            // 
-            this.txb_search.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.txb_search.BorderStyle = System.Windows.Forms.BorderStyle.None;
-            this.txb_search.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.txb_search.ForeColor = System.Drawing.Color.DarkGray;
-            this.txb_search.Location = new System.Drawing.Point(417, 62);
-            this.txb_search.Name = "txb_search";
-            this.txb_search.Size = new System.Drawing.Size(458, 23);
-            this.txb_search.TabIndex = 11;
-            this.txb_search.Text = "Nhập tên sản phẩm, từ khóa cần tìm";
-            this.txb_search.Click += new System.EventHandler(this.txb_search_Click);
-            // 
-            // pictureBox3
-            // 
-            this.pictureBox3.BackColor = System.Drawing.Color.WhiteSmoke;
-            this.pictureBox3.Image = global::OnlineShoppingApp.Properties.Resources._314807_search_icon_removebg_preview__1_;
-            this.pictureBox3.Location = new System.Drawing.Point(376, 53);
-            this.pictureBox3.Name = "pictureBox3";
-            this.pictureBox3.Size = new System.Drawing.Size(35, 39);
-            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox3.TabIndex = 10;
-            this.pictureBox3.TabStop = false;
-            // 
-            // pictureBox2
-            // 
-            this.pictureBox2.Image = global::OnlineShoppingApp.Properties.Resources.input;
-            this.pictureBox2.Location = new System.Drawing.Point(350, 42);
-            this.pictureBox2.Name = "pictureBox2";
-            this.pictureBox2.Size = new System.Drawing.Size(568, 60);
-            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.pictureBox2.TabIndex = 9;
-            this.pictureBox2.TabStop = false;
-            // 
-            // picb_close
-            // 
-            this.picb_close.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.picb_close.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.picb_close.Image = global::OnlineShoppingApp.Properties.Resources.Untitled_design__7___1_;
-            this.picb_close.Location = new System.Drawing.Point(1551, 0);
-            this.picb_close.Name = "picb_close";
-            this.picb_close.Size = new System.Drawing.Size(47, 43);
-            this.picb_close.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
-            this.picb_close.TabIndex = 1;
-            this.picb_close.TabStop = false;
-            this.picb_close.Click += new System.EventHandler(this.picb_close_Click);
             // 
             // bbtn_Laptop
             // 
@@ -133,11 +78,11 @@ namespace OnlineShoppingApp
             this.bbtn_Laptop.ColorContrastOnClick = 45;
             this.bbtn_Laptop.ColorContrastOnHover = 45;
             this.bbtn_Laptop.Cursor = System.Windows.Forms.Cursors.Default;
-            borderEdges6.BottomLeft = true;
-            borderEdges6.BottomRight = true;
-            borderEdges6.TopLeft = true;
-            borderEdges6.TopRight = true;
-            this.bbtn_Laptop.CustomizableEdges = borderEdges6;
+            borderEdges1.BottomLeft = true;
+            borderEdges1.BottomRight = true;
+            borderEdges1.TopLeft = true;
+            borderEdges1.TopRight = true;
+            this.bbtn_Laptop.CustomizableEdges = borderEdges1;
             this.bbtn_Laptop.DialogResult = System.Windows.Forms.DialogResult.None;
             this.bbtn_Laptop.DisabledBorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(191)))), ((int)(((byte)(191)))), ((int)(((byte)(191)))));
             this.bbtn_Laptop.DisabledFillColor = System.Drawing.Color.Empty;
@@ -205,6 +150,63 @@ namespace OnlineShoppingApp
             this.bbtn_Laptop.TextPadding = new System.Windows.Forms.Padding(0);
             this.bbtn_Laptop.UseDefaultRadiusAndThickness = true;
             // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Image = global::OnlineShoppingApp.Properties.Resources.Computer__1_;
+            this.pictureBox1.Location = new System.Drawing.Point(0, -6);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(302, 174);
+            this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox1.TabIndex = 0;
+            this.pictureBox1.TabStop = false;
+            // 
+            // txb_search
+            // 
+            this.txb_search.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.txb_search.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.txb_search.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txb_search.ForeColor = System.Drawing.Color.DarkGray;
+            this.txb_search.Location = new System.Drawing.Point(417, 62);
+            this.txb_search.Name = "txb_search";
+            this.txb_search.Size = new System.Drawing.Size(458, 23);
+            this.txb_search.TabIndex = 11;
+            this.txb_search.Text = "Nhập tên sản phẩm, từ khóa cần tìm";
+            this.txb_search.Click += new System.EventHandler(this.txb_search_Click);
+            // 
+            // pictureBox3
+            // 
+            this.pictureBox3.BackColor = System.Drawing.Color.WhiteSmoke;
+            this.pictureBox3.Image = global::OnlineShoppingApp.Properties.Resources._314807_search_icon_removebg_preview__1_;
+            this.pictureBox3.Location = new System.Drawing.Point(376, 53);
+            this.pictureBox3.Name = "pictureBox3";
+            this.pictureBox3.Size = new System.Drawing.Size(35, 39);
+            this.pictureBox3.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox3.TabIndex = 10;
+            this.pictureBox3.TabStop = false;
+            // 
+            // pictureBox2
+            // 
+            this.pictureBox2.Image = global::OnlineShoppingApp.Properties.Resources.input;
+            this.pictureBox2.Location = new System.Drawing.Point(350, 42);
+            this.pictureBox2.Name = "pictureBox2";
+            this.pictureBox2.Size = new System.Drawing.Size(568, 60);
+            this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox2.TabIndex = 9;
+            this.pictureBox2.TabStop = false;
+            // 
+            // picb_close
+            // 
+            this.picb_close.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.picb_close.Cursor = System.Windows.Forms.Cursors.Hand;
+            this.picb_close.Image = global::OnlineShoppingApp.Properties.Resources.Untitled_design__7___1_;
+            this.picb_close.Location = new System.Drawing.Point(1551, 0);
+            this.picb_close.Name = "picb_close";
+            this.picb_close.Size = new System.Drawing.Size(47, 43);
+            this.picb_close.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.picb_close.TabIndex = 1;
+            this.picb_close.TabStop = false;
+            this.picb_close.Click += new System.EventHandler(this.picb_close_Click);
+            // 
             // panel2
             // 
             this.panel2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
@@ -216,12 +218,23 @@ namespace OnlineShoppingApp
             this.panel2.Size = new System.Drawing.Size(1298, 738);
             this.panel2.TabIndex = 12;
             // 
+            // pictureBox4
+            // 
+            this.pictureBox4.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox4.Image")));
+            this.pictureBox4.Location = new System.Drawing.Point(924, 42);
+            this.pictureBox4.Name = "pictureBox4";
+            this.pictureBox4.Size = new System.Drawing.Size(55, 60);
+            this.pictureBox4.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
+            this.pictureBox4.TabIndex = 13;
+            this.pictureBox4.TabStop = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
             this.ClientSize = new System.Drawing.Size(1598, 846);
+            this.Controls.Add(this.pictureBox4);
             this.Controls.Add(this.panel2);
             this.Controls.Add(this.txb_search);
             this.Controls.Add(this.pictureBox3);
@@ -237,6 +250,7 @@ namespace OnlineShoppingApp
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox3)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox2)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.picb_close)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox4)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -252,6 +266,7 @@ namespace OnlineShoppingApp
         private System.Windows.Forms.TextBox txb_search;
         private Bunifu.UI.WinForms.BunifuButton.BunifuButton bbtn_Laptop;
         private System.Windows.Forms.Panel panel2;
+        private System.Windows.Forms.PictureBox pictureBox4;
     }
 }
 
