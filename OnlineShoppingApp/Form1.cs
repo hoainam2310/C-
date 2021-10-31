@@ -21,5 +21,10 @@ namespace OnlineShoppingApp
         {
             this.Close();
         }
+
+        private void txb_search_Click(object sender, EventArgs e)
+        {
+            txb_search.Text = "";
+        }
     }
 }
