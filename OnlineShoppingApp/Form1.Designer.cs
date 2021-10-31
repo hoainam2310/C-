@@ -33,7 +33,6 @@ namespace OnlineShoppingApp
             this.panel1 = new System.Windows.Forms.Panel();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.picb_close = new System.Windows.Forms.PictureBox();
-            this.rjButton1 = new OnlineShoppingApp.RJButton();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.picb_close)).BeginInit();
@@ -42,7 +41,6 @@ namespace OnlineShoppingApp
             // panel1
             // 
             this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(19)))), ((int)(((byte)(34)))), ((int)(((byte)(75)))));
-            this.panel1.Controls.Add(this.rjButton1);
             this.panel1.Controls.Add(this.pictureBox1);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Left;
             this.panel1.Location = new System.Drawing.Point(0, 0);
@@ -73,19 +71,6 @@ namespace OnlineShoppingApp
             this.picb_close.TabStop = false;
             this.picb_close.Click += new System.EventHandler(this.picb_close_Click);
             // 
-            // rjButton1
-            // 
-            this.rjButton1.BackColor = System.Drawing.Color.MediumSlateBlue;
-            this.rjButton1.FlatAppearance.BorderSize = 0;
-            this.rjButton1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.rjButton1.ForeColor = System.Drawing.Color.White;
-            this.rjButton1.Location = new System.Drawing.Point(23, 206);
-            this.rjButton1.Name = "rjButton1";
-            this.rjButton1.Size = new System.Drawing.Size(243, 52);
-            this.rjButton1.TabIndex = 1;
-            this.rjButton1.Text = "rjButton1";
-            this.rjButton1.UseVisualStyleBackColor = false;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -110,7 +95,6 @@ namespace OnlineShoppingApp
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.PictureBox picb_close;
-        private RJButton rjButton1;
     }
 }
 
