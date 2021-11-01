@@ -156,3 +156,4 @@ C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\OnlineShoppingApp\obj\Debug\OnlineSh
 C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\OnlineShoppingApp\obj\Debug\OnlineShoppingApp.csproj.CoreCompileInputs.cache
 C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\OnlineShoppingApp\obj\Debug\OnlineShoppingApp.exe
 C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\OnlineShoppingApp\obj\Debug\OnlineShoppingApp.pdb
+C:\Users\nguye\Downloads\UIT\C# UIT\C-sharp\OnlineShoppingApp\obj\Debug\OnlineShoppingApp.ShopItems.resources

@@ -159,6 +159,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ShopItems.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ShopItems.Designer.cs">
+      <DependentUpon>ShopItems.cs</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
@@ -173,6 +179,9 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
+    <EmbeddedResource Include="ShopItems.resx">
+      <DependentUpon>ShopItems.cs</DependentUpon>
+    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -201,6 +210,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\1814095_cart_checkout_commerce_shopping cart_icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\250_58916_16zd90p_g_ax54a5.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
