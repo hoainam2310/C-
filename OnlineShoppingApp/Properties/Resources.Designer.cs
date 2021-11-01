@@ -123,6 +123,26 @@ namespace OnlineShoppingApp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _56561_mba__4_ {
+            get {
+                object obj = ResourceManager.GetObject("56561_mba__4_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _56805_5301__3_ {
+            get {
+                object obj = ResourceManager.GetObject("56805_5301__3_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Computer__1_ {
             get {
                 object obj = ResourceManager.GetObject("Computer (1)", resourceCulture);
