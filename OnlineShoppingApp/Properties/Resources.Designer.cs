@@ -113,6 +113,36 @@ namespace OnlineShoppingApp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _46199_______l__m_m__t_laptop_cooler_master___cmc3 {
+            get {
+                object obj = ResourceManager.GetObject("46199_______l__m_m__t_laptop_cooler_master___cmc3", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _51467_cap_laptop_coolbell_2100_15_mau_ghi {
+            get {
+                object obj = ResourceManager.GetObject("51467_cap_laptop_coolbell_2100_15_mau_ghi", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _51467_cap_laptop_coolbell_2100_15_mau_ghi1 {
+            get {
+                object obj = ResourceManager.GetObject("51467_cap_laptop_coolbell_2100_15_mau_ghi1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _55971_surface_laptop_go_i5_1035g1_8gb_ram_256gb_ssd_12_4_cam_ung_win_10_xanh_6 {
             get {
                 object obj = ResourceManager.GetObject("55971_surface_laptop_go_i5_1035g1_8gb_ram_256gb_ssd_12_4_cam_ung_win_10_xanh_6", resourceCulture);
@@ -166,6 +196,16 @@ namespace OnlineShoppingApp.Properties {
         internal static System.Drawing.Bitmap _56893_chai_xit_ve_sinh_laptop_da_nang_handboss_650ml_2 {
             get {
                 object obj = ResourceManager.GetObject("56893_chai_xit_ve_sinh_laptop_da_nang_handboss_650ml_2", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _56896_de_lam_mat_laptop_bamba_b2_5_quat_1 {
+            get {
+                object obj = ResourceManager.GetObject("56896_de_lam_mat_laptop_bamba_b2_5_quat_1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

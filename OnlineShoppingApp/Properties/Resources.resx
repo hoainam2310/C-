@@ -121,11 +121,14 @@
   <data name="34442_c__p_hdmi_5m_vention_vaa_b04_b500_chu___n_1_4" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\34442_c__p_hdmi_5m_vention_vaa_b04_b500_chu___n_1_4.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="56447_vostro5402__6_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\56447_vostro5402__6_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="51467_cap_laptop_coolbell_2100_15_mau_ghi" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\51467_cap_laptop_coolbell_2100_15_mau_ghi.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="250_58916_16zd90p_g_ax54a5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\250_58916_16zd90p_g_ax54a5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="56893_chai_xit_ve_sinh_laptop_da_nang_handboss_650ml_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\56893_chai_xit_ve_sinh_laptop_da_nang_handboss_650ml_2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="1814095_cart_checkout_commerce_shopping cart_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1814095_cart_checkout_commerce_shopping cart_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -139,6 +142,9 @@
   <data name="56199_laptop_msi_gaming_bravo_15_a4dcr_270vn_den_2020_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\56199_laptop_msi_gaming_bravo_15_a4dcr_270vn_den_2020_9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="51467_cap_laptop_coolbell_2100_15_mau_ghi1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\51467_cap_laptop_coolbell_2100_15_mau_ghi1.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="45727_hdd_box_3_5_inch_orico_ws500ru3_3_0_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\45727_hdd_box_3_5_inch_orico_ws500ru3_3_0_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
@@ -148,16 +154,22 @@
   <data name="314807_search_icon-removebg-preview (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\314807_search_icon-removebg-preview (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="46199_______l__m_m__t_laptop_cooler_master___cmc3" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\46199_______l__m_m__t_laptop_cooler_master___cmc3.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="56561_mba__4_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\56561_mba__4_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Computer (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Computer (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="56447_vostro5402__6_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\56447_vostro5402__6_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Untitled design (7) (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Untitled design (7) (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="56893_chai_xit_ve_sinh_laptop_da_nang_handboss_650ml_2" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\56893_chai_xit_ve_sinh_laptop_da_nang_handboss_650ml_2.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Computer (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Computer (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="56896_de_lam_mat_laptop_bamba_b2_5_quat_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\56896_de_lam_mat_laptop_bamba_b2_5_quat_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
