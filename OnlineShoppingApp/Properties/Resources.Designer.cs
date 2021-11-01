@@ -93,6 +93,16 @@ namespace OnlineShoppingApp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _34442_c__p_hdmi_5m_vention_vaa_b04_b500_chu___n_1_4 {
+            get {
+                object obj = ResourceManager.GetObject("34442_c__p_hdmi_5m_vention_vaa_b04_b500_chu___n_1_4", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _45727_hdd_box_3_5_inch_orico_ws500ru3_3_0_1 {
             get {
                 object obj = ResourceManager.GetObject("45727_hdd_box_3_5_inch_orico_ws500ru3_3_0_1", resourceCulture);
@@ -146,6 +156,16 @@ namespace OnlineShoppingApp.Properties {
         internal static System.Drawing.Bitmap _56805_5301__3_ {
             get {
                 object obj = ResourceManager.GetObject("56805_5301__3_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap _56893_chai_xit_ve_sinh_laptop_da_nang_handboss_650ml_2 {
+            get {
+                object obj = ResourceManager.GetObject("56893_chai_xit_ve_sinh_laptop_da_nang_handboss_650ml_2", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
