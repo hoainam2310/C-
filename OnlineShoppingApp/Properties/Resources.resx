@@ -118,22 +118,25 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="Untitled design (7) (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Untitled design (7) (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="input" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\input.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="1814095_cart_checkout_commerce_shopping cart_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\1814095_cart_checkout_commerce_shopping cart_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="314807_search_icon-removebg-preview (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\314807_search_icon-removebg-preview (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="Untitled design (7) (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\Untitled design (7) (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="250_58916_16zd90p_g_ax54a5" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\250_58916_16zd90p_g_ax54a5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="1814095_cart_checkout_commerce_shopping cart_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\1814095_cart_checkout_commerce_shopping cart_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Computer (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Computer (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="250_58916_16zd90p_g_ax54a5" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\250_58916_16zd90p_g_ax54a5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="56199_laptop_msi_gaming_bravo_15_a4dcr_270vn_den_2020_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\56199_laptop_msi_gaming_bravo_15_a4dcr_270vn_den_2020_9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
