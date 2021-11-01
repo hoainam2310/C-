@@ -93,6 +93,16 @@ namespace OnlineShoppingApp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _45727_hdd_box_3_5_inch_orico_ws500ru3_3_0_1 {
+            get {
+                object obj = ResourceManager.GetObject("45727_hdd_box_3_5_inch_orico_ws500ru3_3_0_1", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _55971_surface_laptop_go_i5_1035g1_8gb_ram_256gb_ssd_12_4_cam_ung_win_10_xanh_6 {
             get {
                 object obj = ResourceManager.GetObject("55971_surface_laptop_go_i5_1035g1_8gb_ram_256gb_ssd_12_4_cam_ung_win_10_xanh_6", resourceCulture);

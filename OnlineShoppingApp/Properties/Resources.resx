@@ -121,11 +121,11 @@
   <data name="Untitled design (7) (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Untitled design (7) (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="input" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\input.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="56199_laptop_msi_gaming_bravo_15_a4dcr_270vn_den_2020_9" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\56199_laptop_msi_gaming_bravo_15_a4dcr_270vn_den_2020_9.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="56805_5301__3_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\56805_5301__3_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="314807_search_icon-removebg-preview (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\314807_search_icon-removebg-preview (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -133,8 +133,8 @@
   <data name="250_58916_16zd90p_g_ax54a5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\250_58916_16zd90p_g_ax54a5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="56561_mba__4_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\56561_mba__4_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="input" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\input.JPG;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="1814095_cart_checkout_commerce_shopping cart_icon" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\1814095_cart_checkout_commerce_shopping cart_icon.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -142,13 +142,16 @@
   <data name="56447_vostro5402__6_" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\56447_vostro5402__6_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="56561_mba__4_" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\56561_mba__4_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="55971_surface_laptop_go_i5_1035g1_8gb_ram_256gb_ssd_12_4_cam_ung_win_10_xanh_6" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\55971_surface_laptop_go_i5_1035g1_8gb_ram_256gb_ssd_12_4_cam_ung_win_10_xanh_6.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Computer (1)" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Computer (1).png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="56805_5301__3_" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\56805_5301__3_.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="45727_hdd_box_3_5_inch_orico_ws500ru3_3_0_1" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\45727_hdd_box_3_5_inch_orico_ws500ru3_3_0_1.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>
