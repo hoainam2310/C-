@@ -93,6 +93,16 @@ namespace OnlineShoppingApp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _55971_surface_laptop_go_i5_1035g1_8gb_ram_256gb_ssd_12_4_cam_ung_win_10_xanh_6 {
+            get {
+                object obj = ResourceManager.GetObject("55971_surface_laptop_go_i5_1035g1_8gb_ram_256gb_ssd_12_4_cam_ung_win_10_xanh_6", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap _56199_laptop_msi_gaming_bravo_15_a4dcr_270vn_den_2020_9 {
             get {
                 object obj = ResourceManager.GetObject("56199_laptop_msi_gaming_bravo_15_a4dcr_270vn_den_2020_9", resourceCulture);
