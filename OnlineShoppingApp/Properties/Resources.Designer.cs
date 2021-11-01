@@ -113,6 +113,16 @@ namespace OnlineShoppingApp.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap _56447_vostro5402__6_ {
+            get {
+                object obj = ResourceManager.GetObject("56447_vostro5402__6_", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap Computer__1_ {
             get {
                 object obj = ResourceManager.GetObject("Computer (1)", resourceCulture);
