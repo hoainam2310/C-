@@ -73,5 +73,31 @@ namespace OnlineShoppingApp
         {
            
         }
+
+        int billprice = 0;
+
+        private void p_lap1_Click(object sender, EventArgs e)
+        {
+            int lapprice1 = 38999000;
+            billprice = billprice + 38999000;
+            MessageBox.Show("Sản phẩm đã được thêm vào giỏ hàng !" + billprice);
+        }
+
+        private void pb_cart_Click(object sender, EventArgs e)
+        {
+            if(pl_cart.Visible==false)
+            {
+                pl_cart.Visible = true;
+            }
+            else
+            {
+                pl_cart.Visible = false;
+            }  
+        }
+
+        private void label2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
